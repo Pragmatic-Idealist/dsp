@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Python 3 is the version I started coding in first and was the version that my classes at Metis and Coursera was taught in.
 
 ### Q2. Which Python Version Installed   
 
