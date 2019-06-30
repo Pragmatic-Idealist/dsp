@@ -90,6 +90,12 @@ Let P(A) = Probability of Identical Twin = 1/125
 Let P(B) = Probability of Twin = 1/125 + 1/300
 Let P(B|A) = Probability a Twin given Identical Twin = 1
 
+P(identical twin AND twin brother) = P(idenitical twins) * P(Both Boys|identical twins) = (1/300) (1/2)
+P(fraternal twins AND twin brother) = P(fraternal twins) * P(both boys|fraternal twins) = (1/125) (1/2)(1/2)
+
+P(identical twin|twin brother) = 5/11
+
+
 What is P(A|B)? (Using bayes theorem we get 5/17... which is wrong since the sex of the twin makes a difference. Still figuring out.
 
 
