@@ -14,6 +14,7 @@ n = np.random.random(1000)
 #create random number pdf
 pmf = thinkstats2.Pmf(n)
 thinkplot.Pmf(pmf, linewidth= 1) 
+
 thinkplot.Config(xlabel='Random variate', ylabel='PMF')
 
 #plot description: looks like a rectangular blob
