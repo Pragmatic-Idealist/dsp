@@ -16,7 +16,7 @@ n = np.random.random(1000)
 pmf = thinkstats2.Pmf(n)
 thinkplot.Pmf(pmf, linewidth= 1) 
 
-thinkplot.Config(xlabel='Random variate', ylabel='PMF')
+thinkplot.Config(xlabel='Random Variables', ylabel='PMF')
 
-#plot description: looks like a rectangular blob
+#plot description: looks like a rectangular blob, appears to be relatively random as its uniformly distrubuted.
 
