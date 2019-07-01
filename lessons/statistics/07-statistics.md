@@ -105,7 +105,9 @@ What is P(A|B)? (Using bayes theorem we get 5/17... which is wrong since the sex
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Frequentist - Someone who believes that probabilities represent long run frequencies with which events occur.
+
+Bayesian - Assigns probabilities based on possible outcomes for the particular situation.
 
 ---
 
